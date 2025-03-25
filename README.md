@@ -174,3 +174,6 @@ The system should be part of a broader content moderation strategy, not a standa
 - Hugging Face for the Transformers library
 - The RoBERTa team for the base model
 - Contributors to the dataset
+
+![image](https://github.com/user-attachments/assets/4dc04b37-b553-4730-9f55-2063c831dabf)
+
