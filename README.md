@@ -1,9 +1,11 @@
-# Antisemitic Tweet Detector
+![image](https://github.com/user-attachments/assets/784386ce-e765-45c2-ac98-f14ab1f687bd)# Antisemitic Tweet Detector
 ![image](https://github.com/user-attachments/assets/3b226116-4b98-490e-a190-ebc9f75dff47)
 
 ## Overview
 This project implements a machine learning solution for detecting antisemitic content in tweets.
-Using the RoBERTa-large language model fine-tuned on labeled tweet data, the system can analyze text and determine if it contains antisemitic content with high accuracy.
+Developed as part of a degree program at the university in Skopje, North Macedonia, this system uses the RoBERTa-large language model
+fine-tuned on labeled tweet data to analyze text and determine if it contains antisemitic content with high accuracy.
+The project represents our work in applying advanced natural language processing techniques to address online hate speech and discrimination.
 
 ## Features
 - Text preprocessing
