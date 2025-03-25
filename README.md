@@ -1,4 +1,5 @@
 # Antisemitic Tweet Detector
+![image](https://github.com/user-attachments/assets/3b226116-4b98-490e-a190-ebc9f75dff47)
 
 ## Overview
 This project implements a machine learning solution for detecting antisemitic content in tweets.
