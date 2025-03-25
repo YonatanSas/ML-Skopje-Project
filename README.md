@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/784386ce-e765-45c2-ac98-f14ab1f687bd)# Antisemitic Tweet Detector
+# Antisemitic Tweet Detector
 ![image](https://github.com/user-attachments/assets/3b226116-4b98-490e-a190-ebc9f75dff47)
 
 ## Overview
